@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "1. 前言-为什么要去旅行?/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a18781cefa1f829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 前言-为什么要去旅行?/路线选择.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "1. 前言-为什么要去旅行?/路线选择.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "1. 前言-为什么要去旅行?/路线选择.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "1. 前言-为什么要去旅行?/路线选择.md"
               }
             }
           }
@@ -146,13 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75a3c1b25f97f42c",
+  "active": "0a18781cefa1f829",
   "lastOpenFiles": [
+    "1. 前言-为什么要去旅行?/README.md",
+    "1. 前言-为什么要去旅行?/路线选择.md",
+    "3. Tips & Tricks/洗衣服.md",
+    "3. Tips & Tricks/在哪儿洗澡?.md",
+    "3. Tips & Tricks/节省燃油.md",
+    "2. 行程日记/10.16 到哪儿了?.md",
+    "2. 行程日记/10.15出发.md",
+    "index.md",
     "Topic 1/Note 2.md",
     "3. Tips & Tricks",
     "1. 前言-为什么要去旅行?",
     "2. 行程日记",
-    "Topic 1/Note 1.md",
-    "index.md"
+    "Topic 1/Note 1.md"
   ]
 }
