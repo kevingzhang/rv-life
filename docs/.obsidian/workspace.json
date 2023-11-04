@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f80d1a24c6dbd0e3",
+        "id": "db4f1c3598b400e9",
         "type": "tabs",
         "children": [
           {
-            "id": "75a3c1b25f97f42c",
+            "id": "16ceb2daadb09826",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 前言-为什么要去旅行?/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a18781cefa1f829",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. 前言-为什么要去旅行?/路线选择.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. 前言-为什么要去旅行?/路线选择.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. 前言-为什么要去旅行?/路线选择.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 前言-为什么要去旅行?/路线选择.md"
+                "file": "index.md"
               }
             }
           }
@@ -159,19 +142,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a18781cefa1f829",
+  "active": "42ed8bc148d8d1b7",
   "lastOpenFiles": [
-    "1. 前言-为什么要去旅行?/README.md",
-    "1. 前言-为什么要去旅行?/路线选择.md",
-    "3. Tips & Tricks/洗衣服.md",
-    "3. Tips & Tricks/在哪儿洗澡?.md",
-    "3. Tips & Tricks/节省燃油.md",
-    "2. 行程日记/10.16 到哪儿了?.md",
+    "1. 临行准备/房车选择.md",
+    "1. 临行准备/时间选择.md",
+    "1. 临行准备/路线选择.md",
     "2. 行程日记/10.15出发.md",
+    "2. 行程日记/10.16 到哪儿了?.md",
+    "3. 问题与回答/带着宠物狗一同旅行的注意事项.md",
+    "3. 问题与回答/节省燃油.md",
+    "3. 问题与回答/路上怎样洗衣服?.md",
+    "3. 问题与回答/在哪儿洗澡?.md",
     "index.md",
+    "1. 临行准备/README.md",
     "Topic 1/Note 2.md",
-    "3. Tips & Tricks",
-    "1. 前言-为什么要去旅行?",
+    "3. 问题与回答",
+    "1. 临行准备",
     "2. 行程日记",
     "Topic 1/Note 1.md"
   ]
