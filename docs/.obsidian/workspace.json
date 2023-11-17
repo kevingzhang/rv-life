@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行程日记/D30 再次进入德州. 到达Galveston 岛海滩营地.md",
+                "file": "行程日记/D31 NASA 国家宇航中心.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "行程日记/D30 再次进入德州. 到达Galveston 岛海滩营地.md",
+                "file": "行程日记/D29 成方圆的什锦菜和老佛爷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "行程日记/D30 再次进入德州. 到达Galveston 岛海滩营地.md",
+                "file": "行程日记/D29 成方圆的什锦菜和老佛爷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "行程日记/D30 再次进入德州. 到达Galveston 岛海滩营地.md"
+                "file": "行程日记/D29 成方圆的什锦菜和老佛爷.md"
               }
             }
           }
@@ -159,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "281eac9f05b9554c",
+  "active": "16ceb2daadb09826",
   "lastOpenFiles": [
+    "行程日记/D31 NASA 国家宇航中心.md",
     "行程日记/D29 成方圆的什锦菜和老佛爷.md",
     "行程日记/D30 再次进入德州. 到达Galveston 岛海滩营地.md",
     "行程日记/D28 新奥尔良二战博物馆,雨中免费露营.md",
