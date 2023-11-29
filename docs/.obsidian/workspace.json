@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "db4f1c3598b400e9",
+        "id": "302ce5495c72dc75",
         "type": "tabs",
         "children": [
           {
-            "id": "16ceb2daadb09826",
+            "id": "d446538efe1d8935",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行程日记/D33 前往奥斯汀 路经最大的加油站.md",
+                "file": "行程日记/D27 Tampa和Clear Water(Nov9).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "281eac9f05b9554c",
+            "id": "7a4b3be1d569cb73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行程日记/D31 NASA 国家宇航中心.md",
+                "file": "行程日记/D35 趴窝不动, 车内工作(Nov17).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "行程日记/D33 前往奥斯汀 路经最大的加油站.md",
+                "file": "行程日记/D35 趴窝不动, 车内工作(Nov17).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "行程日记/D33 前往奥斯汀 路经最大的加油站.md",
+                "file": "行程日记/D35 趴窝不动, 车内工作(Nov17).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "行程日记/D33 前往奥斯汀 路经最大的加油站.md"
+                "file": "行程日记/D35 趴窝不动, 车内工作(Nov17).md"
               }
             }
           }
@@ -158,35 +159,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16ceb2daadb09826",
+  "active": "7a4b3be1d569cb73",
   "lastOpenFiles": [
+    "行程日记/D36 前往奥斯汀 路经最大的加油站(Nov18).md",
+    "行程日记/D44 风尘仆仆 回家啦！(Nov27).md",
+    "行程日记/D43 棕榈泉 行程最后一夜(Nov26).md",
+    "行程日记/D42 Quartzsite,AZ 房车胜地(Nov25).md",
+    "行程日记/D41 末日地堡核弹发射井(Nov24).md",
+    "行程日记/D40 趁着夜色混入55+营地 仙人掌国家公园(Nov23).md",
+    "行程日记/D39 $37的RV营地还有室内泳池Hot tub(Nov22).md",
+    "行程日记/D38 白沙国家公园(Nov21).md",
+    "行程日记/D37 终于开出德州了 夜宿遇大风 吵死了(Nov20).md",
+    "行程日记/D36 继续西行 夜宿洞穴营地(Nov19).md",
+    "行程日记/D35 趴窝不动, 车内工作(Nov17).md",
+    "行程日记/D34 NASA 国家宇航中心(Nov16).md",
+    "行程日记/D33 再次进入德州. 到达Galveston 岛海滩营地(Nov15).md",
+    "行程日记/D32 成方圆的什锦菜和老佛爷(Nov 14).md",
+    "行程日记/D31 新奥尔良二战博物馆,雨中免费露营(Nov13).md",
+    "行程日记/D30 密西西比的墨西哥湾沿岸(Nov12).md",
+    "行程日记/D29 模型火车博物馆和阿拉巴马号战列舰(Nov11).md",
+    "行程日记/D28 Panama City 和 Rosemary Beach(Nov10).md",
+    "行程日记/D27 Tampa和Clear Water(Nov9).md",
+    "行程日记/D26 营地工作不挪窝(Nov8).md",
+    "行程日记/D24 Sun Outdoor RV Resort(Nov 6).md",
+    "行程日记/D19 终于看到大西洋了(Nov 2).md",
+    "行程日记/D23 南下佛罗里达(Nov5).md",
+    "行程日记/D21 周末不动窝-房间很小, 但是院子很大, 可以容得下大海(Nov4).md",
+    "行程日记/D20 约克城号航空母舰(Nov 3).md",
+    "行程日记/D18 最不著名的国家公园 Congaree(Nov1).md",
+    "IMG_0564.jpeg",
+    "Pasted image 20231128133702.png",
+    "Pasted image 20231128134050.png",
+    "行程日记/IMG_0491.jpeg",
+    "行程日记/IMG_0442.jpeg",
+    "行程日记/IMG_0414.jpeg",
+    "行程日记/IMG_0409 1.jpeg",
     "行程日记/IMG_0947.jpeg",
     "行程日记/IMG_0951.jpeg",
-    "行程日记/D32 趴窝不动, 车内工作.md",
-    "行程日记/D37 $37的RV营地还有室内泳池Hot tub.md",
-    "行程日记/D36 白沙国家公园.md",
-    "行程日记/D26 模型火车博物馆和阿拉巴马号战列舰.md",
-    "行程日记/D12 Sweet Home Alabama.md",
-    "行程日记/D13 田纳西的人山人海.md",
-    "行程日记/D14 绝美秋色大烟山.md",
-    "行程日记/D15 寒流降雨大烟山变大雾山.md",
-    "行程日记/D16 Country roads, take me home 蓝岭公路.md",
-    "行程日记/D18 终于看到大西洋了.md",
-    "行程日记/D17 最不著名的国家公园 Congaree.md",
-    "行程日记/D31 NASA 国家宇航中心.md",
-    "行程日记/D30 再次进入德州. 到达Galveston 岛海滩营地.md",
-    "行程日记/D27 密西西比的墨西哥湾沿岸.md",
-    "行程日记/D28 新奥尔良二战博物馆,雨中免费露营.md",
-    "行程日记/D29 成方圆的什锦菜和老佛爷.md",
-    "1. 临行准备/房车选择.md",
-    "1. 临行准备/时间选择.md",
-    "1. 临行准备/路线选择.md",
-    "2. 行程日记/10.15出发.md",
-    "2. 行程日记/10.16 到哪儿了?.md",
-    "3. 问题与回答/带着宠物狗一同旅行的注意事项.md",
-    "3. 问题与回答/节省燃油.md",
-    "3. 问题与回答/路上怎样洗衣服?.md",
-    "3. 问题与回答/在哪儿洗澡?.md",
     "3. 问题与回答",
     "1. 临行准备",
     "2. 行程日记"
